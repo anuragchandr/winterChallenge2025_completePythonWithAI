@@ -1,0 +1,21 @@
+order_id,product_id,quantity,order_date,customer_name,payment_method
+1,120,5,2025-06-26,Rohan,Cash on Delivery
+2,116,5,2025-06-21,Anjali,Cash on Delivery
+3,101,3,2025-06-23,Rohan,Credit Card
+4,115,3,2025-06-16,Akarsh,Credit Card
+5,105,3,2025-06-24,Simran,Credit Card
+6,110,3,2025-06-20,Simran,Credit Card
+7,113,5,2025-07-06,Anjali,Credit Card
+8,106,1,2025-06-30,Rohan,Credit Card
+9,107,3,2025-06-27,Anjali,Cash on Delivery
+10,112,2,2025-06-15,Meera,Cash on Delivery
+11,105,4,2025-07-07,Meera,Net Banking
+12,110,3,2025-06-13,Anjali,UPI
+13,106,3,2025-07-10,Simran,Credit Card
+14,104,3,2025-06-16,Akarsh,Net Banking
+15,106,1,2025-07-11,Anjali,Cash on Delivery
+16,119,1,2025-06-18,Akarsh,Cash on Delivery
+17,111,2,2025-07-05,Akarsh,Cash on Delivery
+18,107,3,2025-07-10,Anjali,Credit Card
+19,119,1,2025-06-27,Meera,Cash on Delivery
+20,109,1,2025-07-08,Akarsh,Credit Card
