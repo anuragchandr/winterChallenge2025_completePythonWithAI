@@ -1,47 +1,41 @@
-# DAY 73 to 87 
+# Day 73 to 87
 
-*Focus area: **PostgreSQL***
+During these i completed all major Alogorithms of MACHINE LEARNING.
+Algoriths are as Follow:
 
-In this period I completed PostgreSQL — the notes, visuals, and resources below capture the key concepts, diagrams and references.
+## 1. SUPERVISED
 
----
-
-## Table of Contents
-
-- [Mind Map](#mind-map) 
-- [Infographics](#infographics) 
-- [Resources](#resources) 
-
----
-
-## Mind Map
-
-![Mind Map](mindmap.png)
-
-*A visual overview of the main PostgreSQL concepts and relationships.*
+- Linear Regression
+- Ridge and Lasso
+- Decision Tree
+- Logistic regression
+- Adaboost
+- Random Forest 
+- Gradient Boosting
+- XgBoost
+- Naive Bias
+- SVM
 
 ---
 
-## Infographics
+## 2. UNSUPERVISED
 
-![Info Graphics](unnamed.png)
+- K-Means
+- DBScan
+- Hierarchical Clustering
+- KNN Clustering
+- PCA
+- LDA
 
-*Useful infographics summarizing commands, architecture, and workflows.*
 
----
+<div style="color:blue">LINK TO DETAILED NOTES:</div>
 
-## Resources
-
-- [info](pdff.pdf) — local PDF copy
-
-**PDF Drive link:**
-
-[pdf](https://drive.google.com/file/d/14QFlmOVkpIhdbg_Cy4Vmpa_aoA0wt9kE/view?usp=drivesdk)
+[pdf](https://acrobat.adobe.com/id/urn:aaid:sc:AP:c9421f52-c981-4f3a-ac7f-987176f511a4)
 
 ---
 
-> ## YT Link: [Sherians AI School](https://www.youtube.com/watch?v=p1epCuYb5OQ&t=15325s)
 
 
-> Notes: All original files (mindmap.png, unnamed.png, and pdff.pdf) and the Google Drive link are preserved above. If you'd like, I can add command snippets, a short quickstart, or embedded previews next.
 
+
+# FROM ANURAG CHANDRA🥰
