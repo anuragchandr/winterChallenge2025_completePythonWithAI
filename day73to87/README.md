@@ -27,7 +27,6 @@ Algoriths are as Follow:
 - PCA
 - LDA
 
-
 <div style="color:blue">LINK TO DETAILED NOTES:</div>
 
 [pdf](https://acrobat.adobe.com/id/urn:aaid:sc:AP:c9421f52-c981-4f3a-ac7f-987176f511a4)
